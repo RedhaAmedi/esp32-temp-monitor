@@ -12,5 +12,3 @@ IoT system with ESP32 and DHT22 for indoor temperature monitoring. Sends data vi
 ## 🛠️ Technologies
 ESP32, FreeRTOS, ESP-IDF, DHT22, I2C, Wi-Fi, Python, MQTT (Mosquitto), Flask, Yocto, systemd
 
-## ✅ Status
-Fully functional demo on local network
